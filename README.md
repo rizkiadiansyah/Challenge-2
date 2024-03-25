@@ -7,6 +7,7 @@ Kelas : GO-1
 
 
 Code soal No1
+
 package main
 
 import "fmt"
@@ -93,6 +94,7 @@ func main() {
 ![img 1](Gambar-output/output-no1.jpg)
 
 Code soal no2
+
 package main
 
 import "fmt"
