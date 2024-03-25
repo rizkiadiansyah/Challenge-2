@@ -86,8 +86,8 @@ func main() {
 	fmt.Printf("Pemenang Bonus 2 : %s\n", winner2)
 }
 
-Outputnya 
-! [img 1](Gambar-output/output-no1.jpg)
+Outputnya\n 
+![img 1](Gambar-output/output-no1.jpg)
 
 Code soal no2
 package main
@@ -136,5 +136,5 @@ func main() {
 	fmt.Printf("Apakah Mark memiliki BMI lebih tinggi dari John pada Data 2? %t\n", markHigherBMI2)
 }
 
-outputnya
+outputnya\n
 ![img 2](Gambar-output/output-no2.jpg)
