@@ -2,7 +2,9 @@
 Tugas SIB MIKTI Golang Backend
 
 Nama : Mohamad Rizki Adinsyah
+
 Kelas : GO-1
+
 
 Code soal No1
 package main
