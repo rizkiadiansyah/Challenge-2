@@ -23,7 +23,7 @@ Data Uji:
 
 # Outputnya
 
-![img 1](Gambar-output/output-no1.jpg)
+![img 1](Gambar-output/output_no1.jpg)
 
 # SOAL NO 2
 
@@ -40,4 +40,4 @@ Data Uji:
 
 # Outputnya
 
-![img 2](Gambar-output/output-no2.jpg)
+![img 2](Gambar-output/output_no2.jpg)
