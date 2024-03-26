@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func soalKedua() {
+func SoalKedua() {
 	// Data 1
 	markWeight1 := 78.0
 	markHeight1 := 1.69
