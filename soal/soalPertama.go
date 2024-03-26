@@ -10,7 +10,7 @@ func calculateAverage(scores []int) float64 {
 	return float64(total) / float64(len(scores))
 }
 
-func main() {
+func soalPertama() {
 	// Data uji
 	scoresLumba := []int{96, 108, 89}
 	scoresKoala := []int{88, 91, 110}
